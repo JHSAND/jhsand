@@ -3,3 +3,5 @@
 
 
 ![](https://github-profile-trophy.vercel.app/?username=JHSAND&theme=tokyonight&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KENKUN-1031&theme=dracula&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
