@@ -1,4 +1,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JHSAND&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JHSAND&theme=dark&show_icons=true)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JHSAND&theme=dracula&exclude=HTML,JavaScript,CSS)
 
 ## 📈 Stats & Activities
