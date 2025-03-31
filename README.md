@@ -5,7 +5,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JHSAND&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true&hide=css,html,hack,scss" />
 </a>
 
-<table>
+<table border=0>
   <tr>
     <td>
       <img height="200" src="https://github-readme-stats.vercel.app/api?username=JHSAND&theme=tokyonight&hide_border=true" />
