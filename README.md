@@ -1,4 +1,5 @@
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHSAND&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=JHSAND&theme=onedark&show_icons=ture" />
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JHSAND&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JHSAND&theme=dracula&exclude=HTML,JavaScript,CSS)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JHSAND&theme=dracula&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy
