@@ -1,4 +1,4 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JHSAND&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JHSAND&theme=nightowl)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JHSAND&theme=dracula&exclude=HTML,JavaScript,CSS)
 
 ## 📈 Stats & Activities
