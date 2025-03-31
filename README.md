@@ -2,4 +2,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JHSAND&theme=tokyonight&exclude=HTML,JavaScript,CSS)
 
 
-![](https://github-profile-trophy.vercel.app/?username=JHSAND&theme=tokyonight&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A&hide_border=true)
+![](https://github-profile-trophy.vercel.app/?username=JHSAND&theme=tokyonight&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A&border=none)
