@@ -5,7 +5,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JHSAND&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JHSAND&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JHSAND&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true&exclude=CSS" />
 </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JHSAND&theme=dracula&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
