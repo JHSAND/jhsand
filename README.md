@@ -1,5 +1,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JHSAND&theme=tokyonight)
-![JHSAND's GitHub stats](https://github-readme-stats.vercel.app/api?username=JHSAND&theme=tokyonight_icons=true)
+![JHSAND's GitHub stats](https://github-readme-stats.vercel.app/api?username=JHSAND&theme=tokyonight&icons=true)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JHSAND&theme=dracula&exclude=HTML,JavaScript,CSS)
 
 ## 📈 Stats & Activities
