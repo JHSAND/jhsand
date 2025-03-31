@@ -3,8 +3,8 @@
 
 ## 📈 Stats & Activities
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kmjak&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmjak&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JHSAND&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHSAND&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" height="170"/>
 </p>
 
 ## 🏆 Achievements
